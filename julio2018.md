@@ -13,4 +13,4 @@ Chema nos explica el resultado de su estudio sobre el ESP 32. Nos ha quedado la 
 [OS] Mandar propuesta de talleres a Etopia
 [CH] Estudiar cuantas entradas analógicas podemos usar en el ESP ·”  
   
-**Próxima reunión el Jueves 9 de Julio a las 16:30**
+**Próxima reunión el Jueves 9 de Agosto a las 16:30**
