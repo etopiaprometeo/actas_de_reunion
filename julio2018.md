@@ -6,8 +6,9 @@ Este fichero contiene las actas del mes de Julio de 2018 en formato [Markdown](h
 
 Oscar explica la reunión con Daniel Sarasa de esta mañana  
 A los asistentes nos parece más eficaz hacer cuatro talleres, el primero de ellos de git y los otros tres de Kicad. Estos talleres estarán orientados al desarrollo de la aplicación en la que estamos trabajando  
-Chema nos explica el resultado de su estudio sobre el ESP 32. Nos ha quedado la duda de cuantas señales analógicas vamos a poder utilizar con este dispositivo
-Joaquín comenta alguna cosa sobre Kicad.
+Chema nos explica el resultado de su estudio sobre el ESP 32. Nos ha quedado la duda de cuantas señales analógicas vamos a poder utilizar con este dispositivo.
+
+Joaquín comenta alguna cosa sobre Kicad:
 - Interesa trabajar con la versión 6 ( nightly builds ) que se puede descargar del enlace que hay debajo de la versión estable porque incorporan la posibilidad de importar ficheros en formato eagle, como por ejemplo la shield para arduino de open energy monitor (https://github.com/openenergymonitor/emontx2/tree/master/hardware )
 - Hay un curso sobre kicad gratuito interesante en https://www.udemy.com/introduccion-a-kicad/
 
