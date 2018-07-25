@@ -10,7 +10,7 @@ Chema nos explica el resultado de su estudio sobre el ESP 32. Nos ha quedado la 
 
 Joaquín comenta alguna cosa sobre Kicad:
 - Interesa trabajar con la versión 6 ( nightly builds ) que se puede descargar del enlace que hay debajo de la versión estable porque incorporan la posibilidad de importar ficheros en formato eagle, como por ejemplo la shield para arduino de open energy monitor (https://github.com/openenergymonitor/emontx2/tree/master/hardware )
-- Hay un curso sobre kicad gratuito interesante en https://www.udemy.com/introduccion-a-kicad/
+- Hay un curso sobre kicad interesante en https://www.udemy.com/introduccion-a-kicad/ A principio de Julio era gratuito.
 
 ## Puntos de acción
 [OS] Subir a git el acta de la reunión de hoy  
