@@ -9,7 +9,8 @@ A los asistentes nos parece más eficaz hacer cuatro talleres, el primero de ell
 Chema nos explica el resultado de su estudio sobre el ESP 32. Nos ha quedado la duda de cuantas señales analógicas vamos a poder utilizar con este dispositivo.
 
 Joaquín comenta alguna cosa sobre Kicad:
-- Interesa trabajar con la versión 6 ( nightly builds ) que se puede descargar del enlace que hay debajo de la versión estable porque incorporan la posibilidad de importar ficheros en formato eagle, como por ejemplo la shield para arduino de open energy monitor (https://github.com/openenergymonitor/emontx2/tree/master/hardware )
+- Interesa trabajar con la versión nightly builds que se puede descargar del enlace que hay debajo de la versión estable porque incorporan la posibilidad de importar ficheros en formato eagle, como por ejemplo la shield para arduino de open energy monitor (https://github.com/openenergymonitor/emontx2/tree/master/hardware ).
+Actualización: el 22 de Julio se ha liberado como estable la versión 5 que ya incorpora la posibilidad de importar de eagle.
 - Hay un curso sobre kicad interesante en https://www.udemy.com/introduccion-a-kicad/ A principio de Julio era gratuito.
 
 ## Puntos de acción
