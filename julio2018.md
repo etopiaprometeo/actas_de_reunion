@@ -1,5 +1,5 @@
 
-# Intocucción  
+# Introducción  
 Este fichero contiene las actas del mes de Julio de 2018 en formato [Markdown](https://es.wikipedia.org/wiki/Markdown)
 
 # 5-Julio-2018 Definición de los talleres
