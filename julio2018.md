@@ -12,7 +12,7 @@ Joaquín comenta alguna cosa sobre Kicad:
 - Interesa trabajar con la versión nightly builds que se puede descargar del enlace que hay debajo de la versión estable porque incorporan la posibilidad de importar ficheros en formato eagle, como por ejemplo la shield para arduino de open energy monitor (https://github.com/openenergymonitor/emontx2/tree/master/hardware ).
 Actualización: el 22 de Julio se ha liberado como estable la versión 5 que ya incorpora la posibilidad de importar de eagle.
 - Hay un curso sobre kicad interesante en https://www.udemy.com/introduccion-a-kicad/ A principio de Julio era gratuito.
-También podemos encontrar un tutorial muy completo en el foro de Kicad en castellano (http://elektroquark.com/forokicad/index.php?PHPSESSID=54b80304285733969611db1e68562d7b&topic=4.0)
+- También podemos encontrar un tutorial muy completo en el foro de Kicad en castellano (http://elektroquark.com/forokicad/index.php?PHPSESSID=54b80304285733969611db1e68562d7b&topic=4.0)
 
 
 ## Puntos de acción
