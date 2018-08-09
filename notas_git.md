@@ -6,3 +6,7 @@ Este fichero contiene las acciones mas importantes en el entorno de git
 
 2. Abrirse un [usuario en github](https://github.com/)  
 3. Leer la [ayuda básica de github](https://guides.github.com/activities/hello-world/)
+
+
+Estos son los pasos a seguir
+https://gist.github.com/BCasal/026e4c7f5c71418485c1
